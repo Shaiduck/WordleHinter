@@ -1,0 +1,15 @@
+C:\Users\crist\source\repos\WordleSolver\WordleSolver\bin\Debug\net6.0\WordleSolver.exe
+C:\Users\crist\source\repos\WordleSolver\WordleSolver\bin\Debug\net6.0\WordleSolver.deps.json
+C:\Users\crist\source\repos\WordleSolver\WordleSolver\bin\Debug\net6.0\WordleSolver.runtimeconfig.json
+C:\Users\crist\source\repos\WordleSolver\WordleSolver\bin\Debug\net6.0\WordleSolver.dll
+C:\Users\crist\source\repos\WordleSolver\WordleSolver\bin\Debug\net6.0\ref\WordleSolver.dll
+C:\Users\crist\source\repos\WordleSolver\WordleSolver\bin\Debug\net6.0\WordleSolver.pdb
+C:\Users\crist\source\repos\WordleSolver\WordleSolver\obj\Debug\net6.0\WordleSolver.csproj.AssemblyReference.cache
+C:\Users\crist\source\repos\WordleSolver\WordleSolver\obj\Debug\net6.0\WordleSolver.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\crist\source\repos\WordleSolver\WordleSolver\obj\Debug\net6.0\WordleSolver.AssemblyInfoInputs.cache
+C:\Users\crist\source\repos\WordleSolver\WordleSolver\obj\Debug\net6.0\WordleSolver.AssemblyInfo.cs
+C:\Users\crist\source\repos\WordleSolver\WordleSolver\obj\Debug\net6.0\WordleSolver.csproj.CoreCompileInputs.cache
+C:\Users\crist\source\repos\WordleSolver\WordleSolver\obj\Debug\net6.0\WordleSolver.dll
+C:\Users\crist\source\repos\WordleSolver\WordleSolver\obj\Debug\net6.0\ref\WordleSolver.dll
+C:\Users\crist\source\repos\WordleSolver\WordleSolver\obj\Debug\net6.0\WordleSolver.pdb
+C:\Users\crist\source\repos\WordleSolver\WordleSolver\obj\Debug\net6.0\WordleSolver.genruntimeconfig.cache
